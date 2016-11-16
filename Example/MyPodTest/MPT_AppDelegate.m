@@ -7,6 +7,8 @@
 //
 
 #import "MPT_AppDelegate.h"
+#import <MyPodTest/MOBNetworking.h>
+
 
 @implementation MPT_AppDelegate
 

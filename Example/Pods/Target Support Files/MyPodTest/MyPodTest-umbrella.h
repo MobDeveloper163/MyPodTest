@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "MOBNetworking.h"
+#import "UIColor+MOBColor.h"
 
 FOUNDATION_EXPORT double MyPodTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char MyPodTestVersionString[];
